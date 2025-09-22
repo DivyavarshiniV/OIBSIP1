@@ -25,7 +25,6 @@ The project demonstrates *random number generation* and *string manipulation* in
 ## 📂 Project Structure
 
 📦  PasswordGenerator ┣ 📜 password_generator.py #
- Main program ┣ 📜 requirements.txt #
  Dependencies (none required) ┣ 📜 README.md #
  Documentation
 ---
